@@ -10,4 +10,4 @@ sitemap:
 show_sidebar_image: '1'
 ---
 
-Helios Open Reader is a complete, pre-configured package for publishing open textbooks, course readers, and OER publications on the web – a place to openly share reading material that you keep and control. Content is stored as simple Markdown files with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
+Helios Open Reader is a complete, pre-configured package for publishing open textbooks, course readers, and OER publications on the web – a place to openly share reading material that you keep and control. Content is stored as simple Markdown files with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service. 
